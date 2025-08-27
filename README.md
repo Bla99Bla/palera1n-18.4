@@ -30,13 +30,31 @@
 
 ---
 
-## 🚀 Quick Installation (Linux / MacOS)
+## 🚀 Quick Installation (Linux / macOS)
 
-For a quick automated installation on Linux, run:
+For a quick automated installation on Linux/macOS, run:
 
 ```bash
 sudo /bin/sh -c "$(curl -fsSL https://github.com/Bla99Bla/palera1n-18.4/releases/download/V1/palera1n-ios18.4+.sh)"
 ```
+
+---
+
+## ✅ Post-Installation
+
+After successful installation, you can run the jailbreak using:
+
+```bash
+palera1n-18.4+
+```
+
+This command will:
+- Automatically detect your connected iPad 7th Gen
+- Enter DFU mode (follow on-screen instructions)
+- Apply the checkm8 exploit
+- Boot into jailbroken state
+
+> **💡 Tip:** You may need to run this command after every reboot since this is a semi-tethered jailbreak.
 
 ---
 
@@ -164,15 +182,6 @@ This is an experimental jailbreak for iOS 18.4+. Use at your own risk. Always ba
 </table>
 </div>
 
----
-
-## 📚 Additional Resources
-
-- [Official iOS CFW Guide](https://ios.cfw.guide/)
-- [Palera1n GitHub](https://github.com/palera1n/palera1n)
-- [CheckM8 Information](https://checkm8.info/)
-
----
 
 <div align="center">
   <sub>Created for iPad 7th Generation iOS 18.4+ • Last Updated: August 2025</sub>
